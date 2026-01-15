@@ -1,11 +1,11 @@
 /* Change the background of the entire visible page */
 body {
-    background-color: #f0f0f0; /* Very light grey */
+    background-color: #dcf7ff; /* Very light grey */
 }
 
 /* Style for all paragraphs */
 p {
-    color: black;
+    color: rgb(28, 99, 231);
     font-size: 16px;
     font-family: 'ribeye', serif;
 }
